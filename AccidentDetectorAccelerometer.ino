@@ -4,7 +4,7 @@
 
 
 void setup() {
-  // initialize serial communication at 9600 bits per second:
+  // initialize serial communication at 115200 bits per second:
   Serial.begin(115200);
    prevx = 0;
    prevy = 0;
